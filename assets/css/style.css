@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+}
+
+div {
+  font-size: 2rem;
+}
+
+button {
+  background-color: black;
+  color: white;
+  border-radius: 3px;
+}

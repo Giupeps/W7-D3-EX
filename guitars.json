@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "brand": "Gibson",
+    "model": "Les paul",
+    "price": "2000$"
+  },
+  {
+    "id": 2,
+    "brand": "Fender",
+    "model": "Stratocaster",
+    "price": "1500$"
+  },
+  {
+    "id": 3,
+    "brand": "Ibanez",
+    "model": "Prestige",
+    "price": "1700$"
+  },
+  {
+    "id": 4,
+    "brand": "PRS",
+    "model": "Custom",
+    "price": "3000"
+  },
+  {
+    "id": 5,
+    "brand": "Yamaha",
+    "model": "Revstar",
+    "price": "500$"
+  },
+  {
+    "id": 6,
+    "brand": "Jackson",
+    "model": "Pro Series",
+    "price": "1000$"
+  }
+]
