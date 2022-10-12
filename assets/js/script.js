@@ -11,7 +11,7 @@ for (let guitar of guitars) {
 
 localStorage.setItem("guitarsList", guitarsString);
 
-// ----------------------------------------------------------------
+//PARTE DUE------------------------------------------------------------------
 
 let counterBox = document.querySelector("div");
 let count = 0;

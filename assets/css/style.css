@@ -4,10 +4,14 @@ body {
 
 div {
   font-size: 2rem;
+  margin-top: 2vh;
 }
 
 button {
+  margin-top: 5vh;
   background-color: black;
   color: white;
-  border-radius: 3px;
+  border-radius: 10px;
+  text-transform: uppercase;
+  padding: 1rem;
 }
